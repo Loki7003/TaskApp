@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\..\..\..\AppData\Local\Temp\TFSTemp\vctmp12444_348561.TasksApp.0a65c948.sln" Link="vctmp12444_348561.TasksApp.0a65c948.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="HtmlAgilityPack" Version="1.11.28" />
     <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
     <PackageReference Include="MySql.Data" Version="8.0.22" />
