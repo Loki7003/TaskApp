@@ -70,7 +70,7 @@ namespace WpfApp3
 			string month = data.Substring(3, 2);
 			string year = data.Substring(6, 4);
 			data = year + "-" + month + "-" + day;
-			string query = "SELECT Nazwa, Zlecajacy FROM zadania WHERE Data_wykonania='" + data + "'";
+			string query = "SELECT Nazwa, Zlecajacy FROM zadania WHERE Data_wykonania='" + data + "' AND Pracownik='"+login+"'";
 			connection.Connect();
 			command = connection.Query(query);
 			try
@@ -119,23 +119,25 @@ namespace WpfApp3
 				try
 				{
 					MySqlDataReader reader = command.ExecuteReader();
-					reader.Read();//NAPRAW TO TĘPY CHUJU
-					string a = reader.GetString("Tresc");
-					string b;
-					try
-					{
-						b = "Zlecił: " + reader.GetString("Imie") + " " + reader.GetString("Nazwisko");
-					}
-					catch (Exception)
-					{
-						b = "Zlecił: " + reader.GetString("Imie");
-					}
-					text.Text = a;
-					menager.Text = b;
+					//if (reader.HasRows) {
+						reader.Read();
+						string a = reader.GetString("Tresc");
+						string b;
+						try
+						{
+							b = "Zlecił: " + reader.GetString("Imie") + " " + reader.GetString("Nazwisko");
+						}
+						catch (Exception)
+						{
+							b = "Zlecił: " + reader.GetString("Imie");
+						}
+						text.Text = a;
+						menager.Text = b;
+					//}
 				}
 				catch (Exception er)
 				{
-					MessageBox.Show("Błąd: " + er.Message);
+					MessageBox.Show("Błąd: " + er.Message+"\n"+er.Source);
 				}
 			}
 			else

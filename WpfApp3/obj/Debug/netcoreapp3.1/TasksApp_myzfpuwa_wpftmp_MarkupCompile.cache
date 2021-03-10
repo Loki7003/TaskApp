@@ -1,19 +1,19 @@
-﻿TasksApp
+﻿TasksApp_myzfpuwa_wpftmp
 
 
 winexe
 C#
 .cs
 C:\Users\Karol\Source\Repos\Loki7003\WpfApp3\WpfApp3\obj\Debug\netcoreapp3.1\
-TasksApp
+TasksApp_myzfpuwa_wpftmp
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\Karol\Source\Repos\Loki7003\WpfApp3\WpfApp3\App.xaml
 10-1026160378
 
-151183474208
-208-1230485290
+26-630228280
+4161833996716
 DeleteUserWindow.xaml;Forgot.xaml;HomeWindow.xaml;Login.xaml;MenagerTaskWindow.xaml;PanelWindow.xaml;PasswordChangeWindow.xaml;Register.xaml;TaskCreator.xaml;TaskWindow.xaml;
 
 True

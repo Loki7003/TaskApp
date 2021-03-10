@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karol\\source\\repos\\WpfApp3\\WpfApp3\\TasksApp.csproj": {}
+    "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karol\\source\\repos\\WpfApp3\\WpfApp3\\TasksApp.csproj": {
+    "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karol\\source\\repos\\WpfApp3\\WpfApp3\\TasksApp.csproj",
+        "projectUniqueName": "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj",
         "projectName": "TasksApp",
-        "projectPath": "C:\\Users\\karol\\source\\repos\\WpfApp3\\WpfApp3\\TasksApp.csproj",
-        "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karol\\source\\repos\\WpfApp3\\WpfApp3\\obj\\",
+        "projectPath": "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj",
+        "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -91,7 +91,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

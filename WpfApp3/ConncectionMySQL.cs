@@ -10,9 +10,12 @@ namespace WpfApp3
 {
 	class ConnectionMySQL
 	{
-		static string host = "85.11.116.137";
-		static string user = "admin";
-		static string pass = "Starkiler120.";
+		//static string host = "85.11.116.137";
+		//static string user = "admin";
+		//static string pass = "Starkiler120.";
+		static string host = "localhost";
+		static string user = "root";
+		static string pass = "";
 		static string db = "uzytkownicy";
 		static string dbProvider = "server=" + host + ";Database=" + db + ";User ID=" + user + ";Password=" + pass + ";";
 		MySqlConnection mySql = new MySqlConnection(dbProvider);
