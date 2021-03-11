@@ -6629,23 +6629,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Karol\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\karol\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj",
+      "projectUniqueName": "C:\\Users\\karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj",
       "projectName": "TasksApp",
-      "projectPath": "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj",
-      "packagesPath": "C:\\Users\\Karol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\obj\\",
+      "projectPath": "C:\\Users\\karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\TasksApp.csproj",
+      "packagesPath": "C:\\Users\\karol\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karol\\Source\\Repos\\Loki7003\\WpfApp3\\WpfApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -6719,7 +6719,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

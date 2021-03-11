@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Karol\source\repos\Loki7003\WpfApp3\WpfApp3\obj\Release\netcoreapp3.1\
+C:\Users\karol\Source\Repos\Loki7003\WpfApp3\WpfApp3\obj\Release\netcoreapp3.1\
 TasksApp
 none
 false
 TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\Karol\source\repos\Loki7003\WpfApp3\WpfApp3\App.xaml
-10-1026160378
+C:\Users\karol\Source\Repos\Loki7003\WpfApp3\WpfApp3\App.xaml
+1024853349
 
-17-580405959
-208-1230485290
+171128109754
+208338041669
 DeleteUserWindow.xaml;Forgot.xaml;HomeWindow.xaml;Login.xaml;MenagerTaskWindow.xaml;PanelWindow.xaml;PasswordChangeWindow.xaml;Register.xaml;TaskCreator.xaml;TaskWindow.xaml;
 
 False
